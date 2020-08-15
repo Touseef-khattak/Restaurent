@@ -9,10 +9,10 @@
     font-size: 20px;
 }
 @media (max-width:767px){
-    .navbar-default .navbar-collapse{
-        display: block !important;
-    }
     .navbar-default .navbar-nav>li>a{
         text-align: center
+    }
+    .active{
+        display: block !important;
     }
 }
